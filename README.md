@@ -1,9 +1,11 @@
-#CS50’s Introduction to Programming with Python
+# CS50’s Introduction to Programming with Python
 
-# Summary
-- [0. Functions, Variables]
+## Summary
+- [0. Functions, Variables](#0-functions-variables)
 
-# 0. Functions, Variables
+---
+
+## 0. Functions, Variables
 
 **Function** = action or a verb that let us do something in the program. Generally speaking, any language is coming with some predetermined sets of very basics actions or verbs that a computer already know how to do for it.
 
